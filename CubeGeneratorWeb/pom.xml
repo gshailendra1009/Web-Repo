@@ -18,4 +18,11 @@
   <build>
     <finalName>CubeGeneratorWeb</finalName>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>nexusRepo</id>
+    <name>releases</name>
+    <url>http://13.233.21.84:8081/nexus/content/repositories/releases</url>
+  </repository>
+</distributionManagement>
 </project>
