@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello DevOps Gurus, Welcome DevOpsDays!!! practice for poll scm Successfully</h2>
-<h2>practice for poll scm</h2>
+<h2>Practice CI CD Pipeline to become Master</h2>
 </body>
 </html>
