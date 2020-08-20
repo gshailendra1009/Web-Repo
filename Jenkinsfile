@@ -12,7 +12,7 @@ node
  {
     echo "Static Code analysis"
     name="Shailendra Gupta"
-    echo "Hello name"
+  echo "Hello ${name}"
  }
  stage('Build')
  {
